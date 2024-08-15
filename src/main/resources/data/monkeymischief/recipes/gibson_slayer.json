@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "S#S",
+    "#5#",
+    "S#S"
+  ],
+  "key": {
+    "#": {
+      "item": "monkeymischief:gibson_fur"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:music_disc_5"
+    }
+  },
+  "result": {
+    "item": "monkeymischief:gibson_slayer"
+  }
+}

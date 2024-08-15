@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "monkey-mischief",
+	"id": "monkeymischief",
 	"version": "${version}",
 	"name": "monkey mischief",
 	"description": "Monkey Mischief how I imagined it in Minecraft",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/monkey-mischief/icon.png",
+	"icon": "assets/monkeymischief/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"monkey-mischief.mixins.json"
+		"monkeymischief.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.11",
